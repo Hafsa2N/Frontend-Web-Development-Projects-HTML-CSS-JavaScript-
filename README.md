@@ -1,11 +1,7 @@
-# 🌟 The Student Spot Summer Internship - May 2025
+Web Development Projects – May 2025
 
-Welcome! This repository contains my completed tasks for **The Student Spot Web Development Internship (May 2025)**.  
-It includes HTML, CSS, JavaScript, and responsive design using Bootstrap.
-
----
-
-## 🚀 Task Overview
+Welcome! This repository contains a collection of my front-end web development projects built in May 2025.
+The projects demonstrate practical skills in HTML, CSS, JavaScript, responsive design, and Bootstrap, focusing on clean UI design and interactive functionality.
 
 ### 1. 🧑‍💻 Portfolio Website
 A personal portfolio showcasing my background and resume with clean UI and interactivity.
@@ -29,9 +25,14 @@ A colorful landing page for a fictional eco-health product: **Smart Health Patch
 - **Tech Used:** HTML, Bootstrap 5
 - **Highlights:** Responsive design, gradient hero section, icons, clean layout
 
----
+**💡 Summary**
 
-## 🙋‍♀️ Created by Hafsa Nayeem
+This repository demonstrates hands-on experience with:
+HTML5 structure and semantic markup
+CSS styling and responsive layouts
+JavaScript interactivity and DOM manipulation
+LocalStorage for client-side data persistence
+Bootstrap for responsive UI components
 
-Thank you to **The Student Spot** for this wonderful internship opportunity.  
-All tasks are designed with simplicity, clarity, and responsiveness in mind.  
+## 🙋‍♀️ Created by Hafsa Nayeem 
+These projects were built to practice core front-end development concepts including layout design, DOM manipulation, responsiveness, and browser storage.
