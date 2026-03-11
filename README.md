@@ -1,4 +1,4 @@
-Web Development Projects – May 2025
+**Web Development Projects – May 2025**
 
 Welcome! This repository contains a collection of my front-end web development projects built in May 2025.
 The projects demonstrate practical skills in HTML, CSS, JavaScript, responsive design, and Bootstrap, focusing on clean UI design and interactive functionality.
